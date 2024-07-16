@@ -3,7 +3,7 @@
 [▶ View the analysis here.](https://github.com/schefflaa/predicting-party-affiliation/blob/main/main.ipynb)
 
 
-❗ Note that to properly display some images and use intra-document links downloading the repo is necessary.
+❗ Note that you have to [download the twitter data from kaggle](https://www.kaggle.com/datasets/schefflaa/predicting-party-affiliation) first before running the notebook.
  
 |                                      |                                      |                                    |
 | :----------------------------------: | :----------------------------------: | :--------------------------------: |
