@@ -1,0 +1,14 @@
+this is the feedback for your third portfolio. Your final
+grade will be available in Portal2 soon.
+
+You received a green for your practical submission.
+Overall, it is a very good submission. The discussion of the
+results could have been a bit more extensive, though I like
+your analysis of the confusion matrices. At times, the
+notebook reads rather documentary. Including the figures as
+pictures somewhat undermines the point of the notebook and
+results in me seeing each result table twice.
+
+
+Best regards,
+Lea and Jonathan

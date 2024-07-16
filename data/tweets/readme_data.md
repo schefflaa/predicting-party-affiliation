@@ -1,0 +1,1 @@
+Due to GitHub restrictions on file size and LFS storage capacity, I have not uploaded the raw data files to this repository. However, you can download the data from the following link: [Twitter Data](https://www.kaggle.com/kingburrito666/better-donald-trump-tweets)

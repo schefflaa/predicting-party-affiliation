@@ -1,0 +1,3 @@
+The user_id columns are encoded in UTF-8. If you want to open the csv file in Excel instead of Stata or R, please preserve the Twitter account IDs by loading the file in the following way:
+menu Data -> Get Data -> Import file -> Encoding Unicode (UTF-8) -> Assign the user_id columns as text -> Load
+Menü Daten -> Daten abrufen -> "aus Text" auswählen -> Dateiursprung Unicode (UTF-8) -> user_id Spalten als Text formatieren -> Fertig stellen (German)
