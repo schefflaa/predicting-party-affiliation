@@ -1,7 +1,13 @@
 # Predicting the Party Affiliation of German Politicians represented in the [19th session](https://en.wikipedia.org/wiki/List_of_members_of_the_19th_Bundestag) (2017-2021) of the [Bundestag](https://de.wikipedia.org/wiki/Deutscher_Bundestag)
 
-[▶ View the analysis here.](https://github.com/schefflaa/predicting-party-affiliation/blob/main/main.ipynb)
 
+### Key Points
+- Publishing a [large data set containing ~3 million tweets](https://www.kaggle.com/datasets/schefflaa/predicting-party-affiliation) made by German politicians
+- Demonstrating that predicting party affiliation from tweets is possible
+
+[▶ View the analysis here.](https://github.com/schefflaa/predicting-party-affiliation/blob/main/main.ipynb)
+</br>
+</br>
 
 ❗ Note that you have to [download the twitter data from kaggle](https://www.kaggle.com/datasets/schefflaa/predicting-party-affiliation) first before running the notebook.
  
