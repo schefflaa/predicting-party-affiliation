@@ -7,7 +7,7 @@ I used tweets from German politicians of the [19th Bundestag (2017-2021)](https:
 - Publishing a [large data set containing ~3 million tweets](https://www.kaggle.com/datasets/schefflaa/predicting-party-affiliation) made by German politicians
 - Demonstrating that predicting party affiliation from tweets is possible
 
-[▶ View the analysis here.](https://github.com/schefflaa/predicting-party-affiliation/blob/main/main.ipynb)
+[▶ View the analysis here.](https://github.com/schefflaa/predicting-party-affiliation/blob/master/main.ipynb)
 </br>
 </br>
 
