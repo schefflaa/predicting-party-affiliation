@@ -1,0 +1,5 @@
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+*.html linguist-detectable=false
+*.pdf linguist-detectable=false
+*.ipynb linguist-detectable=true
