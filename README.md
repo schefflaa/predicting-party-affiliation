@@ -17,7 +17,5 @@ I used tweets from German politicians of the [19th Bundestag (2017-2021)](https:
 | :----------------------------------: | :----------------------------------: | :--------------------------------: |
 |               **Linke**              |             **Grüne**                |               **SPD**              |
 | ![](./pictures/wordclouds/linke.png) | ![](./pictures/wordclouds/grüne.png) | ![](./pictures/wordclouds/spd.png) |
-|                 **CDU**              |               **CSU**                |               **FDP**              |
-| ![](./pictures/wordclouds/cdu.png)   | ![](./pictures/wordclouds/csu.png)   | ![](./pictures/wordclouds/fdp.png) |
-|                                      |               **AfD**                |                                    |
-|                                      | ![](./pictures/wordclouds/afd.png)   |                                    |
+|                 **CDU**              |               **AfD**                |               **FDP**              |
+| ![](./pictures/wordclouds/cdu.png)   | ![](./pictures/wordclouds/afd.png)   | ![](./pictures/wordclouds/fdp.png) |
