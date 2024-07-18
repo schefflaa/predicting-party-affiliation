@@ -1,4 +1,6 @@
-# Predicting the Party Affiliation of German Politicians represented in the [19th session](https://en.wikipedia.org/wiki/List_of_members_of_the_19th_Bundestag) (2017-2021) of the [Bundestag](https://de.wikipedia.org/wiki/Deutscher_Bundestag)
+# 🗳️ Predicting German Party Affiliation via Tweets
+
+I used tweets from German politicians of the [19th Bundestag (2017-2021)](https://en.wikipedia.org/wiki/List_of_members_of_the_19th_Bundestag) to predict party affiliation at the tweet level.
 
 
 ### Key Points
